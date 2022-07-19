@@ -6,4 +6,4 @@ ending_num = 1
 
 while ending_num<50:  #Series_ends_at_50
     print(ending_num)
-    starting_num, ending_num = ending_num, starting_num+ending_num
+    starting_num, ending_num = ending_num, starting_num + ending_num
